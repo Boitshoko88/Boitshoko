@@ -31,15 +31,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manqobamahome&show_icons=true&theme=radical" alt="Manqoba Mahome's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boitshoko&show_icons=true&theme=radical" alt="Manqoba Mahome's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manqobamahome&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boitshoko&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manqobamahome&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boitshoko&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ### 🎯 2025 Goals
 
 - ✅ Build and deploy at least **3 full-stack applications**
-- 📚 Dive deeper into **C#** and **Python** frameworks
+- 📚 Dive deeper into **C#** 
 - 🤝 Start contributing to **open-source projects**
 - 🌐 Launch a personal portfolio site
 
